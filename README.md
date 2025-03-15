@@ -4,9 +4,9 @@
 ## Sobre Mim 👩‍💻
  Eu sou uma estudante de Engenharia de Software na PUC-Campinas e desenvolvedora apaixonada por criar soluções inovadoras e eficientes. Tenho experiência em várias tecnologias, que utilizo para desenvolver projetos web e aplicações robustas. As minhas principais tecnologias incluem:
 
-** HTML, CSS, JavaScript, TypeScript, Bootstrap
-** Node.js, Python, Flask
-** SQL, MySQL
+HTML, CSS, JavaScript, TypeScript, Bootstrap
+Node.js, Python, Flask
+SQL, MySQL
 
 Estou sempre buscando aprender mais e me aprimorar no desenvolvimento de software, explorando novas ferramentas e práticas para entregar produtos de alta qualidade.
 
