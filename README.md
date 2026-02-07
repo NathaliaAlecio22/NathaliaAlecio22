@@ -17,7 +17,7 @@ Atualmente, estou em constante aprendizado em desenvolvimento **backend e web**,
 ### 🧠 Fundamentos de Arquitetura & Boas Práticas  
 Conhecimentos aplicados em projetos acadêmicos e estudos práticos:
 
-- Princípios **SOLID**  
+- **SOLID**  
 - **Arquitetura em Camadas**  
 - **Clean Code**  
 
